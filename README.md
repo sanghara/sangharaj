@@ -6,6 +6,12 @@ Application &amp; Technical Support Engineer  | Linux, AWS, API Debugging, Netwo
 💻 Application & Technical Support Engineer  
 🚀 Aspiring SRE / DevOps Engineer  
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghara&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sanghara)
+
 ---
 
 ## 🔧 Tech Stack
@@ -37,6 +43,7 @@ Handled API failures using logs and curl
 - Experience handling production-like issues  
 
 ---
+
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/sangharaj-parulekar-793204211)
